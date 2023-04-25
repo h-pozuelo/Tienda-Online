@@ -1,0 +1,279 @@
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (2)\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\Plantilla - copia (3) - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmLogin.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmLogin.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\Plantilla - copia - copia - copia - copia\Plantilla\obj\Debug\Plantilla.FrmRegistro.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmLogin.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmRegistro.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\Plantilla\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmLogin.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmRegistro.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PROYECTO\PROYECTO\PROYECTO\PROYECTO V2\PROYECTO\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmAgregar.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmBuscar.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmEliminar.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmListar.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmLogin.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.frmMain.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmModificar.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmRegistro.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.FrmVistaCliente.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\Hugo\Desktop\PRY\PROYECTO\PROYECTO\Plantilla\obj\Debug\Plantilla.pdb
